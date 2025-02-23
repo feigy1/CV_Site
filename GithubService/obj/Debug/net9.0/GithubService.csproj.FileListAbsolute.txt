@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\ex\ex\GithubService\bin\Debug\net9.0\GithubService.deps.json
+C:\Users\user1\Desktop\ex\ex\GithubService\bin\Debug\net9.0\GithubService.dll
+C:\Users\user1\Desktop\ex\ex\GithubService\bin\Debug\net9.0\GithubService.pdb
+C:\Users\user1\Desktop\ex\ex\GithubService\obj\Debug\net9.0\GithubService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ex\ex\GithubService\obj\Debug\net9.0\GithubService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ex\ex\GithubService\obj\Debug\net9.0\GithubService.AssemblyInfo.cs
+C:\Users\user1\Desktop\ex\ex\GithubService\obj\Debug\net9.0\GithubService.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ex\ex\GithubService\obj\Debug\net9.0\GithubService.dll
+C:\Users\user1\Desktop\ex\ex\GithubService\obj\Debug\net9.0\refint\GithubService.dll
+C:\Users\user1\Desktop\ex\ex\GithubService\obj\Debug\net9.0\GithubService.pdb
+C:\Users\user1\Desktop\ex\ex\GithubService\obj\Debug\net9.0\ref\GithubService.dll
+C:\Users\user1\Desktop\ex\ex\GithubService\obj\Debug\net9.0\GithubService.csproj.AssemblyReference.cache
